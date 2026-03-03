@@ -1,0 +1,2 @@
+# PROMPT-AND-ARTIFICIAL-INTELLIGENCE
+Aula de IA em Python com José Maia
